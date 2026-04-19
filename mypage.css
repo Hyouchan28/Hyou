@@ -68,8 +68,9 @@ h2{
   width: 600px;
   height: 30px;
 }
-.graphic{
-  background:url(img/homepage/h2-a.png)no-repeat;
+
+.digital{
+  background:url(./img/homepage/h2-a.png)no-repeat;
   filter: drop-shadow(3px 3px 5px #000000);
   height: 100px;
 }
@@ -149,7 +150,7 @@ h2{
 /* #graphic{
   width: 100%;
 } */
-#graphic div {
+#digital div {
   width: 80%;
   min-height: 100%;
  margin: auto;
@@ -161,7 +162,7 @@ flex-wrap: wrap;
   padding-bottom: 30px;
   padding-top: 30px;
 }
-#graphic img{
+#digital img{
   width: 80%;
   margin: 8px; 
 /* box-shadow: 8px 10px 5px #000000; */
