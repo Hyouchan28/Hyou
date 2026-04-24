@@ -74,7 +74,7 @@ h2{
   filter: drop-shadow(3px 3px 5px #000000);
   height: 100px;
 }
-.draw {
+.painting {
   background: url(img/homepage/h2-b.png) no-repeat;
   /* width: 600px; */
   height: 100px;
@@ -175,13 +175,13 @@ border-radius: 3px;
   width: 100%;
 } */
 
-#draw div{
+#painting div{
   position: relative;
   width: 90%;
   min-height: 2800px;
   margin: auto;
 }
-#draw img{
+#painting img{
 position: absolute;
 width: 95%;
   top: 0;
