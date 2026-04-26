@@ -95,7 +95,7 @@ h2{
   padding-top: 75px;
 }
 
-.korean{
+.korea{
   background: url(img/homepage/h2-d.png)no-repeat;
   filter: drop-shadow(3px 3px 5px #000000);
   height: 65px;
@@ -217,7 +217,7 @@ width: 95%;
   margin: 10px;
   border-radius: 5px;
 }
-#korean div{
+#korea div{
   width: 100%;
   min-height: 100vh;;
   margin: auto;
@@ -227,7 +227,7 @@ width: 95%;
   padding-bottom: 30px;
   padding-top: 30px;
 }
-#korean img{
+#korea img{
   box-shadow: 8px 8px 10px #000000;
   margin: 10px;
   border-radius: 5px;
